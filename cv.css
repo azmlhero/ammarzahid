@@ -1,0 +1,39 @@
+table{
+    margin: 50px;
+}
+img {
+  border-radius: 60%;
+}
+th {
+  text-align: center;
+  justify-content: center;
+  padding: 2em;
+}
+.colspan{
+    width: 50%;
+}
+td{
+    text-align: center;
+    justify-content: center;
+ 
+}
+.norules{
+    
+    text-align:left;
+    justify-content: left;
+
+}
+.t2{
+    margin-left: 4em;
+   padding: 5em;
+    justify-content: center;
+    
+}
+.gap{
+padding: 20px;
+
+  
+}
+html{
+    scroll-behavior: smooth;
+}
