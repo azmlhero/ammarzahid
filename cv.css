@@ -41,3 +41,10 @@ html {
 p {
   padding-top: 4em;
 }
+.inline {
+  white-space: nowrap;
+}
+
+svg {
+  display: inline;
+}
